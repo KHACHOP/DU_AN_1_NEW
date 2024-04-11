@@ -1,0 +1,8 @@
+diff a/DATA.sql b/DATA.sql	(rejected hunks)
+@@ -1,4 +1,5 @@
+-﻿ use BanGiay_DA1
++﻿create database BanGiay_DA1
++ use BanGiay_DA1
+ 
+ --ThuongHieu
+ if object_id('THUONGHIEU') is not null
